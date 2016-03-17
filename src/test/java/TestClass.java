@@ -8,5 +8,6 @@ public class TestClass {
         System.out.println("test class to be added to repo...");
         System.out.println("test class to be added to repo...");
         System.out.println("Hello new branch");
+        System.out.println("branch master");
     }
 }
